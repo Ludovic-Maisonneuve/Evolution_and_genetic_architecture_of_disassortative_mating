@@ -1,4 +1,4 @@
-#This file contains the value of the parameters that I don't varry for making figure S8
+#This file contains the value of the parameters that I don't varry for making figure 3
 
 from fixed_parameter import *
 import numpy as np
